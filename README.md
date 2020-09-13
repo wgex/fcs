@@ -1,16 +1,15 @@
 # fcs
 yeni nesil türkçe programlama dili
 
-##Syntax:
+## Syntax:
 
-C# syntax ının neredeyse aynısı
-bana göre en kolay syntax
-C# ta kullanılan referencelerin aynısı kullanıldı.
-derleyici programı .net e dönüştürür
+- C# syntax ının neredeyse aynısı
+- çünkü bana göre en kolay syntax
+- C# ta kullanılan referencelerin aynısı kullanıldı.
+- derleyici programı `.net` e dönüştürür
 
-##Örnek Program:
-
-``
+## Örnek Program:
+```
 kullan System;
 kullan System.Text;
 kullan System.Windows.Forms;
@@ -32,7 +31,7 @@ alan FCS
                 etiket.Yazı = "Merhaba!";
                 etiket.Font = yeni Font("Courier", 13);
                 //etiket i ortaladım
-                etiket.Konum = yeni Nokta(form.ClientBüyüklüğü.Yatay / 2 - etiket.Büyüklük.Yatay / 2, form.ClientBüyüklüğü.Dikey / 2 - etiket.Büyüklük.Dikey / 2);
+                etiket.Konum = yeni Nokta(form.ClientBüyüklüğü.Yatay / 2 - etiket.Büyüklük.Yatay   / 2,   form.ClientBüyüklüğü.Dikey / 2 - etiket.Büyüklük.Dikey / 2);
                 form.Yazı = "Başlangıç Formu";
                 //etiket i form a ekledim
                 form.Kontroller.Ekle(etiket);
@@ -41,6 +40,6 @@ alan FCS
         }
     }
 }
-``
+```
 
-###Discord: wgex#7561
+### Discord: wgex#7561
