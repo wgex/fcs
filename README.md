@@ -8,6 +8,17 @@ yeni nesil türkçe programlama dili
 - C# ta kullanılan referencelerin aynısı kullanıldı.
 - derleyici programı `.net` e dönüştürür
 
+## Örnek Derleyici Kullanımı:
+
+#### Kullanım:
+```
+fcs.exe <fcs dosyası> -o <çıktı exe dosyası> -r <reference(1 tane)> -rl <reference listesi (txt dosyası)>
+```
+#### Örnek:
+```
+fcs.exe dosya.fcs -o dosya.exe -rl refer.txt
+```
+
 ## Örnek Program:
 ```
 kullan System;
