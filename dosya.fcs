@@ -1,3 +1,7 @@
+/*
+Örnek FCS Dosyası
+*/
+
 kullan System;
 kullan System.Text;
 kullan System.Windows.Forms;
