@@ -1,0 +1,7 @@
+C:\Users\hamza\source\repos\FCS\bin\Debug\FCS.exe.config
+C:\Users\hamza\source\repos\FCS\bin\Debug\FCS.exe
+C:\Users\hamza\source\repos\FCS\bin\Debug\FCS.pdb
+C:\Users\hamza\source\repos\FCS\obj\Debug\FCS.csprojAssemblyReference.cache
+C:\Users\hamza\source\repos\FCS\obj\Debug\FCS.csproj.CoreCompileInputs.cache
+C:\Users\hamza\source\repos\FCS\obj\Debug\FCS.exe
+C:\Users\hamza\source\repos\FCS\obj\Debug\FCS.pdb

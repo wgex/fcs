@@ -1,0 +1,14 @@
+kullan System;
+kullan System.Text;
+kullan System.Windows.Forms;
+
+alan FCS
+{
+    sınıf Program
+    {
+        statik boşluk Main(string[] args)
+        {
+            MesajKutusu.Göster("merhaba");
+        }
+    }
+}
