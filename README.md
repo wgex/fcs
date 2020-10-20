@@ -53,4 +53,4 @@ alan FCS
 }
 ```
 
-### Discord: wgex#7561
+### Discord: wgex#0069
